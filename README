@@ -1,1 +1,28 @@
-#TEST
+# 📊 Stock Analysis Dashboard: Tesla, Amazon, AMD & GameStop
+
+This is a Data Science project developed as part of the *Python for Data Science, AI and Development* course. The goal is to extract, analyze, and visualize financial data from major publicly traded companies using Python — focusing on stock trends, company profits, and market behavior such as short selling.
+
+## 🚀 Project Objective
+
+To build a dashboard that helps investors and analysts understand how stock prices relate to a company's performance and external events, using data from Tesla, Amazon, AMD, and GameStop.
+
+## ✅ Key Features
+
+- Extract historical stock prices using the `yfinance` API
+- Download company financial data (such as revenue and net income)
+- Visualize trends in stock price vs. profit
+- Compare fundamental growth (Tesla) vs. speculative spikes (GameStop)
+- Handle short selling scenarios in a real-world case study
+
+## 🛠️ Tools & Libraries Used
+
+- **Python 3**
+- **yfinance** – extract stock and financial data
+- **Pandas** – data cleaning and manipulation
+- **Plotly** – build interactive visualizations
+- **Requests** – download external data files (e.g. JSON)
+- **Jupyter Notebook** – code and output all in one place
+- **Skills Network Labs / IBM Watson Studio** – cloud development environment
+
+## 📁 Project Structure
+
